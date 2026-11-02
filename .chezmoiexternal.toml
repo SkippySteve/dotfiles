@@ -1,0 +1,75 @@
+[".config/omarchy/themes/aetheria"]
+    type = "git-repo"
+    url = "https://github.com/JJDizz1L/aetheria"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/all-hallows-eve"]
+    type = "git-repo"
+    url = "https://github.com/guilhermetk/omarchy-all-hallows-eve-theme"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/arc-blueberry"]
+    type = "git-repo"
+    url = "https://github.com/vale-c/omarchy-arc-blueberry"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/ash"]
+    type = "git-repo"
+    url = "https://github.com/bjarneo/omarchy-ash-theme"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/azure-glow"]
+    type = "git-repo"
+    url = "https://github.com/Hydradevx/omarchy-azure-glow-theme"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/citrus-cynapse"]
+    type = "git-repo"
+    url = "https://github.com/Grey-007/citrus-cynapse"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/city-783"]
+    type = "git-repo"
+    url = "https://github.com/OldJobobo/omarchy-city-783-theme"
+    refreshPeriod = "168h"
+
+[".config/omarchy/themes/cpunk"]
+    type = "git-repo"
+    url = "https://github.com/stannorbvb-cmd/cpunk"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/akitaonrails.ai-usagebar"]
+    type = "git-repo"
+    url = "https://github.com/akitaonrails/ai-usagebar.git"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/crmne.hyprmoncfg"]
+    type = "git-repo"
+    url = "https://github.com/crmne/omarchy-hyprmoncfg.git"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/debba.media-control"]
+    type = "git-repo"
+    url = "https://github.com/debba/omarchy-media-control.git"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/ipkalid.flatpak-store"]
+    type = "git-repo"
+    url = "https://github.com/ipkalid/omarchy-flatpak.git"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/mmsbrggr.per-monitor-workspaces"]
+    type = "git-repo"
+    url = "https://github.com/mmsbrggr/omarchy-per-monitor-workspaces.git"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/navjottomer.printer"]
+    type = "git-repo"
+    url = "https://github.com/navjottomer/omarchy-printer.git"
+    refreshPeriod = "168h"
+
+[".config/omarchy/plugins/segersb.omarchy-printers"]
+    type = "git-repo"
+    url = "https://github.com/segersb/omarchy-printers.git"
+    refreshPeriod = "168h"
+

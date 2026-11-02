@@ -1,0 +1,127 @@
+{
+  "name": "profile-20261006-104125",
+  "created_at": "2026-10-06T14:41:27.443816582Z",
+  "updated_at": "2026-10-06T15:39:58.698972035Z",
+  "outputs": [
+    {
+      "key": "acer technologies|ed320qr s|2222051743w01",
+      "match_key": "acer technologies|ed320qr s|2222051743w01",
+      "name": "DP-2",
+      "description": "Acer Technologies ED320QR S 2222051743W01",
+      "make": "Acer Technologies",
+      "model": "ED320QR S",
+      "serial": "2222051743W01",
+      "enabled": true,
+      "mode": "1920x1080@165.00Hz",
+      "width": 1920,
+      "height": 1080,
+      "refresh": 164.998,
+      "x": 0,
+      "y": 0,
+      "scale": 1,
+      "transform": 0,
+      "bitdepth": 8,
+      "cm": "srgb",
+      "sdr_brightness": 1,
+      "sdr_saturation": 1,
+      "sdr_min_luminance": 0.2,
+      "sdr_max_luminance": 80,
+      "min_luminance": 0
+    },
+    {
+      "key": "acer technologies|ed320qr s|2222051843w01",
+      "match_key": "acer technologies|ed320qr s|2222051843w01",
+      "name": "DP-3",
+      "description": "Acer Technologies ED320QR S 2222051843W01",
+      "make": "Acer Technologies",
+      "model": "ED320QR S",
+      "serial": "2222051843W01",
+      "enabled": true,
+      "mode": "1920x1080@165.00Hz",
+      "width": 1920,
+      "height": 1080,
+      "refresh": 164.998,
+      "x": 1920,
+      "y": 0,
+      "scale": 1,
+      "transform": 0,
+      "bitdepth": 8,
+      "cm": "srgb",
+      "sdr_brightness": 1,
+      "sdr_saturation": 1,
+      "sdr_min_luminance": 0.2,
+      "sdr_max_luminance": 80,
+      "min_luminance": 0
+    }
+  ],
+  "workspaces": {
+    "enabled": false,
+    "strategy": "sequential",
+    "max_workspaces": 10,
+    "group_size": 5,
+    "persist_all": true,
+    "monitor_order": [
+      "acer technologies|ed320qr s|2222051743w01",
+      "acer technologies|ed320qr s|2222051843w01"
+    ],
+    "rules": [
+      {
+        "workspace": "1",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2",
+        "default": true,
+        "persistent": true
+      },
+      {
+        "workspace": "2",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2",
+        "persistent": true
+      },
+      {
+        "workspace": "3",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2",
+        "persistent": true
+      },
+      {
+        "workspace": "4",
+        "output_key": "acer technologies|ed320qr s|2222051843w01",
+        "output_name": "DP-3",
+        "default": true,
+        "persistent": true
+      },
+      {
+        "workspace": "5",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2"
+      },
+      {
+        "workspace": "6",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2"
+      },
+      {
+        "workspace": "7",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2"
+      },
+      {
+        "workspace": "8",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2"
+      },
+      {
+        "workspace": "9",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2"
+      },
+      {
+        "workspace": "10",
+        "output_key": "acer technologies|ed320qr s|2222051743w01",
+        "output_name": "DP-2"
+      }
+    ]
+  },
+  "exec": ""
+}
