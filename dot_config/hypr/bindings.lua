@@ -42,6 +42,3 @@ o.bind("SUPER + ALT + code:21", "Widen column a little", hl.dsp.layout("colresiz
 o.bind("SUPER + ALT + code:20", "Narrow column a little", hl.dsp.layout("colresize -0.015"))
 o.bind("SUPER + CTRL + code:21", "Widen column a lot", hl.dsp.layout("colresize +0.15"))
 o.bind("SUPER + CTRL + code:20", "Narrow column a lot", hl.dsp.layout("colresize -0.15"))
-
--- Per-monitor workspaces (mmsbrggr.per-monitor-workspaces): SUPER+N acts on the focused screen
-pcall(dofile, os.getenv("HOME") .. "/.config/omarchy/plugins/mmsbrggr.per-monitor-workspaces/hypr/init.lua")
